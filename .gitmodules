@@ -1,0 +1,3 @@
+[submodule "curl-object"]
+	path = curl-object
+	url = git://github.com/qurben/curl-object.git
