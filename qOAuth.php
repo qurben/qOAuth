@@ -1,5 +1,5 @@
 <?php
-require_once('curl.php');
+require_once('curl-object/curl.php');
 
 class QOAuth {
   private $consumer_key;
